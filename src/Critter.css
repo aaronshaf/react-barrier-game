@@ -1,0 +1,4 @@
+.Critter {
+  background-color: orange;
+  transition: left 0.5s linear, top 0.5s linear;
+}

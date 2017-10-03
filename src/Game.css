@@ -1,0 +1,14 @@
+:root {
+  --piece-size: 30px;
+}
+
+.Game {
+  background-color: #eee;
+  position: absolute;
+}
+
+.Piece {
+  position: absolute;
+  width: var(--piece-size);
+  height: var(--piece-size);
+}

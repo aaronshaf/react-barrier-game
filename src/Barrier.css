@@ -1,0 +1,9 @@
+.Barrier {
+  background-color: brown;
+  border: 0 none;
+  transition: left 0.5s linear, top 0.5s linear, border 0.5s linear;
+}
+
+.Barrier--moving {
+  background-color: #d84343;
+}
