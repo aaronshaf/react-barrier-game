@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>react-block-game</h1>
+        <h1>react-barrier-game</h1>
         <Game boardSize={12} />
       </div>
     )
