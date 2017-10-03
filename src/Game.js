@@ -15,7 +15,7 @@ import './Game.css'
 
 const INTERVAL = 500
 const MAX_CRITTER_COUNT = 4
-const STARTING_BARRIER_COUNT = 0
+const STARTING_BARRIER_COUNT = 20
 const MAX_BARRIERS = 80
 const MAX_MOVING_BARRIERS = 20
 
